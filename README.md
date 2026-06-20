@@ -2,10 +2,6 @@
   <img src="github-header-banner.png"  />
 </div>
 
-<div align="center">
-  <img height="210" src="https://i.redd.it/1m7v0o2aibxd1.gif"  />
-</div>
-
 ---
 
 ### Certifications and Badges
