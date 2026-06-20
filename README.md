@@ -4,7 +4,7 @@
 
 ---
 
-<div align="center" text="yellow">
+<div align="center" style="yellow">
  Aspiring Game Developer | BS in Information System | Sophomore Year at LVCC
 </div><br>
 
