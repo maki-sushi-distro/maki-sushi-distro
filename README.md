@@ -5,7 +5,7 @@
 ---
 
 <div align="center">
- <font color="yellow"> Aspiring Game Developer | BS in Information System | Junior Year at LVCC </font>
+ Aspiring Game Developer | BS in Information System | Junior Year at LVCC
 </div><br>
 
 ---
