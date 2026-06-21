@@ -11,7 +11,7 @@
 <br>
 
 
-I'm currently working on:
+**I'm currently working on:**
 <br>
 
 - **Developing an information system for a cafe using Laravel as my framework**
@@ -21,7 +21,7 @@ I'm currently working on:
 
 <br>
 
-My hobbies are:
+**My hobbies are:**
 <br>
 
 - **Traditional Arts**
