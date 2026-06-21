@@ -94,19 +94,27 @@
 
 ---
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-<br>
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20advance%20of%20technology%20is%20based%20on%20making%20it%20so%20that%20you%20don%27t%20really%20even%20notice%20it%2C%20so%20it%27s%20part%20of%20everyday%20life.&author=Bill%20Gates" alt="Bill Gates Quote" />
+</div>
 
 ---
 
 
 **<h3 align="left">Github Status</h3>**
-![](https://github-readme-stats.shion.dev/api?username=maki-sushi-distro&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=maki-sushi-distro&theme=github_dark_dimmed&hide_border=false)<br/>
+
+<br>
+
+<div align="center">
+
+![](https://github-readme-stats.shion.dev/api?username=maki-sushi-distro&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=false)
+
+![](https://streak-stats.demolab.com/?user=maki-sushi-distro&theme=github_dark_dimmed&hide_border=false)
+
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=maki-sushi-distro&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+</div>
 <br>
 
 
