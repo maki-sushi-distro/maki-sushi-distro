@@ -1,9 +1,8 @@
 ![Hi, my name is Mac Robert Savandal](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 
 <div align ="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Merriweather&weight=800&size=40&pause=1000&color=5A00F7CA&width=760&height=300&lines=Hi!+My+name+is+Mac+Robert+Savandal" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Merriweather&weight=700&size=40&pause=1000&color=5A00F7CA&width=760&height=100&lines=Hi!+My+name+is+Mac+Robert+Savandal" alt="Typing SVG" /></a>
 </div>
-
 
  <h3 align="center">Aspiring IT Officer in Cruiship | Full Stack Developer | An Artist </h2>
 <br>
