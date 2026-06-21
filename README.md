@@ -12,7 +12,7 @@
 <br>
 
 
-I'm working currently on:
+I'm currently working on:
 <br>
 
 - **Developing an information system for a cafe using Laravel as my framework**
@@ -59,8 +59,11 @@ My hobbies are:
     <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" title="SQLite" />&nbsp;
   </kbd>
   
-  <br><br>          
-### Certifications and Badges
+  <br><br>
+
+---
+
+**<h3 align="left">Certicate and Badges</h3>**
 
 <p align="center">
   <a href="https://www.credly.com/badges/892ab3c8-1cc2-4e65-9095-5388f145b0cf">
@@ -74,14 +77,40 @@ My hobbies are:
   </a>
 </p>
 
+<br>
 
 ---
 
-**<h3 align="center">Connect with me:</h3>** 
-<p align="center"><a href="https://www.facebook.com/Mac Robert Savandal" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" height="28" style="margin-right: 8px"></a> <a href="macsavandal@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" height="28" style="margin-right: 8px"></a> <a href="https://www.linkedin.com/in/Mac Savandal" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" height="28" style="margin-right: 8px"></a></p>
+**<h3 align="left">Contact Me On:</h3>**
+
+**Email**  
+[macsavandal@gmail.com](mailto:macsavandal@gmail.com)
+
+**GitHub**  
+[github.com/maki-sushi-distro](https://github.com/maki-sushi-distro)
+
+**LinkedIn**  
+[linkedin.com/in/mac-savandal-185767318](https://www.linkedin.com/in/mac-savandal-185767318)
+<br>
+
 ---
 
-###
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+<br>
+
+---
+
+
+**<h3 align="left">Github Status</h3>**
+![](https://github-readme-stats.shion.dev/api?username=maki-sushi-distro&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=maki-sushi-distro&theme=github_dark_dimmed&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=maki-sushi-distro&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+<br>
+
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mcccc07/mcccc07/output/github-contribution-grid-snake-dark.svg" />
