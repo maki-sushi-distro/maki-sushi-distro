@@ -16,7 +16,7 @@
 
 - **Developing an information system for a cafe using Laravel as my framework**
 - **Exploring React and React Native**
-- **Learning CPanel**
+- **Learning Basics of CPanel**
 - **Automation using n8n**
 
 <br>
