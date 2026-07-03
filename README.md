@@ -5,9 +5,13 @@
 </div>
 
  <h3 align="center">Aspiring IT Officer in Cruise Ship | Full Stack Developer | An Artist </h2>
-<br>
-
 ---
+
+## About Me
+>I am currently taking Bachelors of Science in Information Systems and I'm on my 3rd year at La Verdad Christian College.
+>My friends know me as quirky and funny guy despite of being introvert.
+>The values in life that I believe personally is that no matter how hard or how complicated things can be, we should always
+>never be scared to try and figure it out. Because life deosn't stop giving us a lesson to learn and to grow.
 <br>
 
 
