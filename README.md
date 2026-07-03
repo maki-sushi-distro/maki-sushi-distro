@@ -3,9 +3,7 @@
 <div align ="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Merriweather&weight=700&size=40&pause=1000&color=5A00F7CA&width=760&height=100&lines=Hi!+My+name+is+Mac+Robert+Savandal" alt="Typing SVG" /></a>
 </div>
-
- <h3 align="center">Aspiring IT Officer in Cruise Ship | Full Stack Developer | An Artist </h2>
----
+ <h3 align="center">Aspiring IT Officer in Cruise Ship | Full Stack Developer | An Artist </h3>
 
 ## About Me
 >I am currently taking Bachelors of Science in Information Systems and I'm on my 3rd year at La Verdad Christian College.
