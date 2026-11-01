@@ -81,5 +81,5 @@ My friends know me as the quirky and funny introvert of the group. I believe tha
 - **LinkedIn:** [Mac Savandal](https://www.linkedin.com/in/mac-savandal-185767318)
 
 <div align="center">
-  <sub>Thanks for visiting—stay curious, keep creating, and remember to commit before experimenting. ✨</sub>
+  <sub>Thanks for visiting—stay curious, keep creating, and remember to commit before experimenting. </sub>
 </div>
