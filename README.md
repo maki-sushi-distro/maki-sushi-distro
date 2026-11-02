@@ -225,7 +225,7 @@ My friends know me as the quirky and funny introvert of the group. I believe tha
     />
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/mac-savandal-185767318">
+  <a href="https://www.linkedin.com/in/mac-robert-savandal-185767318/">
     <img
       src="https://skillicons.dev/icons?i=linkedin"
       width="48"
