@@ -31,129 +31,68 @@ I'm a third-year <strong>Bachelor of Science in Information Systems</strong> stu
 
 ---
 
-<table align="center">
-  <tr>
-    <th colspan="2" align="center">
-      <h2>Technical Skills</h2>
-    </th>
-  </tr>
-
-  <tr>
-    <td width="30%" align="left" valign="middle">
-      <strong>Frontend &amp; Mobile</strong>
-    </td>
-    <td width="70%" align="center" valign="middle">
-      <br>
-      <img
-        src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap"
-        height="45"
-        alt="HTML5, CSS3, JavaScript, React, React Native, Tailwind CSS, and Bootstrap"
-        title="HTML5, CSS3, JavaScript, React, React Native, Tailwind CSS, and Bootstrap"
-      />
-      <br><br>
-    </td>
-  </tr>
-
-  <tr>
-    <td align="left" valign="middle">
-      <strong>Backend &amp; Databases</strong>
-    </td>
-    <td align="center" valign="middle">
-      <br>
-      <img
-        src="https://skillicons.dev/icons?i=python,php,laravel,postgres,mysql,sqlite"
-        height="45"
-        alt="Python, PHP, Laravel, PostgreSQL, MySQL, and SQLite"
-        title="Python, PHP, Laravel, PostgreSQL, MySQL, and SQLite"
-      />
-      <br><br>
-    </td>
-  </tr>
-
-  <tr>
-    <td align="left" valign="middle">
-      <strong>Platforms &amp; Integrations</strong>
-    </td>
-    <td align="center" valign="middle">
-      <br>
-      <img
-        src="./skill-tiles/assets/skills/google.svg"
-        width="45"
-        height="45"
-        alt="Google SEO"
-        title="Google SEO"
-      />
-      &nbsp;
-      <img
-        src="./skill-tiles/assets/skills/google.svg"
-        width="45"
-        height="45"
-        alt="Google OAuth"
-        title="Google OAuth"
-      />
-      &nbsp;
-      <img
-        src="./skill-tiles/assets/skills/n8n.svg"
-        width="45"
-        height="45"
-        alt="n8n"
-        title="n8n"
-      />
-      &nbsp;
-      <img
-        src="./skill-tiles/assets/skills/cpanel.svg"
-        width="45"
-        height="45"
-        alt="cPanel"
-        title="cPanel"
-      />
-      <br><br>
-    </td>
-  </tr>
-
-  <tr>
-    <td align="left" valign="middle">
-      <strong>Design &amp; Media</strong>
-    </td>
-    <td align="center" valign="middle">
-      <br>
-      <img
-        src="./skill-tiles/assets/skills/canva.svg"
-        width="45"
-        height="45"
-        alt="Canva"
-        title="Canva"
-      />
-      &nbsp;
-      <img
-        src="./skill-tiles/assets/skills/capcut.svg"
-        width="45"
-        height="45"
-        alt="CapCut"
-        title="CapCut"
-      />
-      &nbsp;
-      <img
-        src="./skill-tiles/assets/skills/figma.svg"
-        width="45"
-        height="45"
-        alt="Figma"
-        title="Figma"
-      />
-      &nbsp;
-      <img
-        src="./skill-tiles/assets/skills/davinci-resolve.svg"
-        width="45"
-        height="45"
-        alt="DaVinci Resolve"
-        title="DaVinci Resolve"
-      />
-      <br><br>
-    </td>
-  </tr>
-</table>
-
-
+<div align="center">
+  <table width="100%">
+    <tr>
+      <td colspan="2" align="center"><h2>Technical Skills</h2></td>
+    </tr>
+    <tr>
+      <td width="25%"><strong>Frontend &amp;<br />Mobile</strong></td>
+      <td align="center">
+        <kbd><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" alt="HTML" title="HTML" /></kbd>
+        <kbd><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" alt="CSS" title="CSS" /></kbd>
+        <kbd><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" alt="JavaScript" title="JavaScript" /></kbd>
+        <kbd><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" alt="React" title="React" /></kbd>
+        <kbd><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" alt="React Native" title="React Native" /></kbd>
+        <kbd><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tailwind_css.png" alt="Tailwind CSS" title="Tailwind CSS" /></kbd>
+        <kbd><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bootstrap.png" alt="Bootstrap" title="Bootstrap" /></kbd>
+        <kbd><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/shadcn_ui.png" alt="shadcn/ui" title="shadcn/ui" /></kbd>
+        <kbd><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vite.png" alt="Vite" title="Vite" /></kbd>
+        <kbd><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/astro.png" alt="Astro" title="Astro" /></kbd>
+        <kbd><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/expo.png" alt="Expo" title="Expo" /></kbd>
+      </td>
+    </tr>
+    <tr>
+      <td width="25%"><strong>Backend &amp;<br />Databases</strong></td>
+      <td align="center">
+        <kbd><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/rest.png" alt="REST" title="REST" /></kbd>
+        <kbd><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/node_js.png" alt="Node.js" title="Node.js" /></kbd>
+        <kbd><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png" alt="Java" title="Java" /></kbd>
+        <kbd><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="Python" title="Python" /></kbd>
+        <kbd><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/php.png" alt="PHP" title="PHP" /></kbd>
+        <kbd><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/laravel.png" alt="Laravel" title="Laravel" /></kbd>
+        <kbd><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png" alt="PostgreSQL" title="PostgreSQL" /></kbd>
+        <kbd><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png" alt="MySQL" title="MySQL" /></kbd>
+        <kbd><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/sqlite.png" alt="SQLite" title="SQLite" /></kbd>
+        <kbd><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mariadb.png" alt="MariaDB" title="MariaDB" /></kbd>
+      </td>
+    </tr>
+    <tr>
+      <td width="25%"><strong>Platforms &amp;<br />Integrations</strong></td>
+      <td align="center">
+        <kbd><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" alt="Git" title="Git" /></kbd>
+        <kbd><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png" alt="Visual Studio Code" title="Visual Studio Code" /></kbd>
+        <kbd><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postman.png" alt="Postman" title="Postman" /></kbd>
+        <kbd><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/npm.png" alt="npm" title="npm" /></kbd>
+        <kbd><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/wordpress.png" alt="WordPress" title="WordPress" /></kbd>
+         <kbd><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vercel.png" alt="Vercel" title="Vercel" /></kbd>
+        <kbd><img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg" alt="Google SEO" title="Google SEO" /></kbd>
+        <kbd><img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg" alt="Google OAuth" title="Google OAuth" /></kbd>
+        <kbd><img width="50" src="https://cdn.simpleicons.org/n8n/EA4B71" alt="n8n" title="n8n" /></kbd>
+        <kbd><img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cpanel/cpanel-original.svg" alt="cPanel" title="cPanel" /></kbd>
+      </td>
+    </tr>
+    <tr>
+      <td width="25%"><strong>Design &amp; Media</strong></td>
+            <td align="center">
+        <kbd><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/canva.png" alt="Canva" title="Canva" /></kbd>
+        <kbd><img width="50" src="https://lf16-web-buz.capcut.com/obj/capcut-web-buz-us/pwa/512.png" alt="CapCut" title="CapCut" /></kbd>
+        <kbd><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/figma.png" alt="Figma" title="Figma" /></kbd>
+        <kbd><img width="50" src="https://upload.wikimedia.org/wikipedia/commons/9/90/DaVinci_Resolve_17_logo.svg" alt="DaVinci Resolve" title="DaVinci Resolve" /></kbd>
+      </td>
+    </tr>
+  </table>
+</div>
 <br>
 
 ## Beyond the Keyboard
