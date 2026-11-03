@@ -11,18 +11,23 @@
   Aspiring Cruise Ship IT Officer · Full-Stack Developer · Artist
 </h3>
 
-## About Me
+<h2><strong> About Me </strong></h2>
 
-I'm a third-year **Bachelor of Science in Information Systems** student at **La Verdad Christian College**. I enjoy building practical systems, exploring new technologies, and finding creative ways to solve problems.
+<h5 align="center">
+I'm a third-year <strong>Bachelor of Science in Information Systems</strong> student at <strong>La Verdad Christian College</strong>. I enjoy building practical systems, exploring new technologies, and finding creative ways to solve problems. My friends know me as the quirky and funny introvert of the group. I believe that difficult problems are invitations to learn: try, investigate, improve, and keep moving forward. Life never really stops teaching us—and apparently, neither do mysterious bugs.
+</h5>
 
-My friends know me as the quirky and funny introvert of the group. I believe that difficult problems are invitations to learn: try, investigate, improve, and keep moving forward. Life never really stops teaching us—and apparently, neither do mysterious bugs.
+<br>
+<br>
 
-## What I'm Working On
+## Current Focus
 
-- Developing a café information system with Laravel
-- Expanding my skills in React.js and React Native
-- Learning the fundamentals of cPanel
-- Building workflow automations with n8n
+- Developing a Laravel-based café information system to support daily operations
+- Strengthening web and mobile development skills with React and React Native
+- Learning website hosting and administration through cPanel
+- Building automated workflows with n8n to streamline repetitive tasks
+
+<br>
 
 ---
 
@@ -148,12 +153,17 @@ My friends know me as the quirky and funny introvert of the group. I believe tha
   </tr>
 </table>
 
+
+<br>
+
 ## Beyond the Keyboard
 
 - Traditional art
 - Photography
 - Music streaming
 - Reading non-fiction books
+
+<br>
 
 ## Certificates & Badges
 
