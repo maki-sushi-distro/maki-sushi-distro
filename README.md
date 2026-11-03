@@ -18,6 +18,11 @@ I'm a third-year <strong>Bachelor of Science in Information Systems</strong> stu
 </h5>
 
 <br>
+<div align="center">
+<a href="https://discord.com/users/1127317236449816646"><img src="https://lanyard.cnrad.dev/api/1127317236449816646?bg=336470&borderRadius=20px&idleMessage=Probably%20busy%20doing%20stuff&showDisplayName=true&theme=dark" /></a>
+</div>
+
+
 <br>
 
 ## Current Focus
