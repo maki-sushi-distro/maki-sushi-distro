@@ -150,7 +150,7 @@ I'm a third-year <strong>Bachelor of Science in Information Systems</strong> stu
   />
 </div>
 
-
+<div align="center">
 <h2>Let's Connect</h2>
 
 <p>
